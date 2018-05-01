@@ -1,0 +1,12 @@
+*~
+tags
+tags.*
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+*.sw[op]
+
+output/
+build/
+tmp/
